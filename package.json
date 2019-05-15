@@ -1,6 +1,6 @@
 {
-  "name": "fd-slicer",
-  "version": "1.1.0",
+  "name": "@avocode/fd-slicer",
+  "version": "1.1.0-avocode",
   "description": "safely create multiple ReadStream or WriteStream objects from the same file descriptor",
   "main": "index.js",
   "scripts": {
