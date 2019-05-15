@@ -32,5 +32,8 @@
   "keywords": [
     "createReadStream",
     "createWriteStream"
+  ],
+  "files": [
+    "index.js"
   ]
 }
