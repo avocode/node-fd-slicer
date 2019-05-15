@@ -1,4 +1,4 @@
-var fdSlicer = require('../');
+var fdSlicer = require('../').create();
 var fs = require('fs');
 var crypto = require('crypto');
 var path = require('path');
