@@ -1,6 +1,9 @@
 # fd-slicer
 
-[![Build Status](https://travis-ci.org/andrewrk/node-fd-slicer.svg?branch=master)](https://travis-ci.org/andrewrk/node-fd-slicer)
+[![Build Status](https://travis-ci.org/avocode/node-fd-slicer.svg?branch=avocode)](https://travis-ci.org/avocode/node-fd-slicer)
+
+:warning: Avocode fork details are in [@avocode/yazl repository](https://github.com/avocode/yazl#avocode-fork-warning).
+
 
 Safe `fs.ReadStream` and `fs.WriteStream` using the same fd.
 
